@@ -16,3 +16,9 @@ table{
 table th{
     background-color: cadetblue;
 }
+.git{
+    text-align: center;
+    background-color: rgb(240, 30, 30);
+    color: white;
+    text-decoration: underline; 
+}
